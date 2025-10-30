@@ -6,7 +6,7 @@ Escape From Dockuv mod for more options to skip time
 This guide is for users who purchased the game on the Epic Games Store (EGS) and need to install the mod manually.
 
 ### 1. Download the Mod
-* Download the zip file and get ``
+* Download the zip file and get `0Harmony.dll`, `MakeTimeQuacker.dll`, `Preview.png` and `info.ini`
 
 ### 2. Locate Your Game's Mod Folder
 You first need to find your game's installation folder:
