@@ -9,7 +9,7 @@ This guide is for users who purchased the game on the Epic Games and need to ins
 * Download the zip file and get `0Harmony.dll`, `MakeTimeQuacker.dll`, `Preview.png` and `info.ini`
 
 ### 2. Locate Your Game's Mod Folder
-1.  Create `MakeTimeQuacker'` folder in `(Game installed folder)\Duckov_Data\Mods`
+1.  Create `MakeTimeQuacker` folder in `(Game installed folder)\Duckov_Data\Mods`
 2.  Put all 4 files above in the created folder.
 
 ### 3. Launch the Game
