@@ -1,5 +1,5 @@
 # MakeTimeQuacker
-Escape From Dockuv mod for more options to skip time
+Escape From Duckov mod for more options to skip time
 
 ## Manual Installation (Epic Games Store)
 
